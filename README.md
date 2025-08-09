@@ -1,6 +1,6 @@
-# 📝 Next_Blog_X – Full Stack Blog App with Next.js, MongoDB & Tailwind CSS
+# 📝 Word_weave – Full Stack Blog App with Next.js, MongoDB & Tailwind CSS
 
-**Next_Blog_X** is a full-featured blog platform built using **Next.js**, **MongoDB**, and **Tailwind CSS**. It offers a seamless experience for viewing blog posts and a secure admin dashboard for managing content.
+**Word-weave** is a full-featured blog platform built using **Next.js**, **MongoDB**, and **Tailwind CSS**. It offers a seamless experience for viewing blog posts and a secure admin dashboard for managing content.
 
 ---
 
